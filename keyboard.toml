@@ -31,7 +31,7 @@ keymap = [
      ["Tab",     "Q",        "W",     "E",     "R",     "T",     "Y",     "U",     "I",      "O",     "P",         "LeftBracket",  "RightBracket",  "Backslash" ,  "Kp7",        "Kp8",      "Kp9",         "KpMinus"      ],
      ["CapsLock" "A",        "S",     "D",     "F",     "G",     "H",     "J",     "K",      "L",     "Semicolon", "Quote",        "Enter",         "No" ,         "Kp4",        "Kp5",      "Kp6",         "KpPlus"       ],
      ["LShift",  "Backslash","Z",     "X",     "C",     "V",     "B",     "N",     "M",      "Comma", "Dot",       "Slash",        "RShift",        "Up",          "Kp1",        "Kp2",      "Kp3",         "KpEnter"      ],
-     ["LCtrl",  "LGui",     "LAlt"    "No",    "No",    "Space", "Kp0",   "KpDot", "KpEnter","RAlt",  "RCtrl",     "Left",         "Down",          "Right",       "Delete",     "End",      "PageDown",    "ScrollLock"   ],
+     ["LCtrl",  "LGui",     "LAlt",   "No",    "No",    "Space", "Kp0",   "KpDot", "KpEnter","RAlt",  "RCtrl",     "Left",         "Down",          "Right",       "Delete",     "End",      "PageDown",    "ScrollLock"   ],
     ],
     
     [
@@ -40,7 +40,7 @@ keymap = [
      ["Tab",     "Q",        "W",     "E",     "R",     "T",     "Y",     "U",     "I",      "O",     "P",         "LeftBracket",  "RightBracket",  "Backslash" ,  "Kp7",        "Kp8",      "Kp9",         "KpMinus"      ],
      ["CapsLock" "A",        "S",     "D",     "F",     "G",     "H",     "J",     "K",      "L",     "Semicolon", "Quote",        "Enter",         "No" ,         "Kp4",        "Kp5",      "Kp6",         "KpPlus"       ],
      ["LShift",  "Backslash","Z",     "X",     "C",     "V",     "B",     "N",     "M",      "Comma", "Dot",       "Slash",        "RShift",        "Up",          "Kp1",        "Kp2",      "Kp3",         "KpEnter"      ],
-     ["LCtrl",  "LGui",     "LAlt"    "No",    "No",    "Space", "Kp0",   "KpDot", "KpEnter","RAlt",  "RCtrl",     "Left",         "Down",          "Right",       "Delete",     "End",      "PageDown",    "ScrollLock"   ], 
+     ["LCtrl",  "LGui",     "LAlt",    "No",    "No",    "Space", "Kp0",   "KpDot", "KpEnter","RAlt",  "RCtrl",     "Left",         "Down",          "Right",       "Delete",     "End",      "PageDown",    "ScrollLock"   ], 
      ],
 ]
 
