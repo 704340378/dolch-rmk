@@ -49,9 +49,9 @@ enabled = true
 battery_adc_pin = "vddh"
 
 [light]
-capslock = { pin = "P0_05", low_active = true }
-scrolllock = { pin = "P0_00", low_active = true }
-numslock= { pin = "P0_01", low_active = true }
+capslock = { pin = "P0_01", low_active = false }
+scrolllock = { pin = "P0_00", low_active = false }
+numslock= { pin = "P0_05", low_active = false }
 
 [host]
 vial_enabled = true
